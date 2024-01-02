@@ -1,0 +1,15 @@
+p:hover {
+    color:red;
+    background-color: #000000;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#test {
+    background-color: pink;
+    padding: 10px;
+    border: 3px solid #a19a9a;
+    margin: 5px;
+    transition: background-color 0.3s ease;
+    border-radius: 20px;
+  }
+
